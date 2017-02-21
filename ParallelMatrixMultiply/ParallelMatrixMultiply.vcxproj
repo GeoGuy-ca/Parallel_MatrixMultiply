@@ -170,6 +170,7 @@ copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"</Command>
     <ClCompile Include="OpenMP_Matrix.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="c:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cuda_runtime.h" />
     <ClInclude Include="cuda_hernel.h" />
     <ClInclude Include="OpenMP_Matrix.h" />
     <ClInclude Include="targetver.h" />

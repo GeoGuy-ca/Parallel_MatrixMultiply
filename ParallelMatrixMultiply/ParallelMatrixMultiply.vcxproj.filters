@@ -27,6 +27,9 @@
     <ClInclude Include="OpenMP_Matrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="c:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include\cuda_runtime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
